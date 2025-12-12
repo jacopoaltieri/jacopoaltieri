@@ -11,11 +11,3 @@ Hi there 👋<br>👋 Hi, I’m @jacopoaltieri<br>🎓 I am a PhD student in Med
 ![](https://github-readme-stats.vercel.app/api?username=jacopoaltieri&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jacopoaltieri&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopoaltieri&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jacopoaltieri&theme=catppuccin_latte&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jacopoaltieri&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
